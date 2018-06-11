@@ -18,5 +18,9 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^2.0.0"
+  },
+  "dependencies": {
+    "devtron": "^1.4.0",
+    "string-to-stream": "^1.1.1"
   }
 }
